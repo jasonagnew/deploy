@@ -1,0 +1,7 @@
+{
+  "name": "name/name",
+  "description": "name",
+  "require": {
+    "nesbot/carbon": "~1.14"
+  }
+}
